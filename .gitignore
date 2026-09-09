@@ -4,6 +4,8 @@ out/
 *.class
 
 # IDE & Tooling
+.classpath
+.project
 .settings/
 .vscode/
 .idea/
