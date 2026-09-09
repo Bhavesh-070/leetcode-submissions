@@ -1,0 +1,14 @@
+# Build & Bytecode
+bin/
+out/
+*.class
+
+# IDE & Tooling
+.settings/
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
