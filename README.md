@@ -64,4 +64,8 @@ When solving a new problem:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
