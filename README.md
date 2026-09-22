@@ -25,5 +25,6 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
