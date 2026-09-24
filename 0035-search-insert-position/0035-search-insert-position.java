@@ -23,6 +23,14 @@
  */
 class Solution {
     public int searchInsert(int[] nums, int target) {
+        // Fast boundary checks: O(1) early exit when target is outside array range
+        if (target <= nums[0]) {
+            return 0;
+        }
+        if (target > nums[nums.length - 1]) {
+            return nums.length;
+        }
+
         int left = 0;
         int right = nums.length - 1;
 
