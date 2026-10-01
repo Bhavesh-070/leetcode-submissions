@@ -16,6 +16,9 @@
  *                     In the worst case, checks n * (n - 1) / 2 pairs.
  * - Space Complexity: O(1) auxiliary space.
  *                     Does not allocate extra data structures.
+ *
+ * Optimal Follow-up Note:
+ * - Can be optimized to O(n) Time using a HashMap to store (complement -> index).
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
