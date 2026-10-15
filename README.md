@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0066-plus-one/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 <!---LeetCode Topics End-->
