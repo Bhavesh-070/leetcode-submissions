@@ -26,6 +26,7 @@
 | [0175-combine-two-tables](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0182-duplicate-emails/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/1693-daily-leads-and-partners/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
