@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0066-plus-one/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/0066-plus-one/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Bhavesh-070/leetcode-submissions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
